@@ -6,11 +6,11 @@
   :root {
     color-scheme: light;
     /* https://tailwindcss.com/docs/customizing-colors#using-css-variables */
-    --theme-bg: #efefef;
-    --theme-text: #222222;
-    --theme-accent: #dd7878;
+    --theme-bg: #e6e6e6;
+    --theme-text: #3a4a50;
+    --theme-accent: #5aa1ae;
     --theme-accent-2: #bcc0cd;
-    --theme-surface: #e6e6e6;
+    --theme-surface: #efefef;
     --theme-quote: #dd7878;
     --theme-highlight: #dd7878;
   }
@@ -19,11 +19,11 @@
     color-scheme: dark;
     --theme-bg: #1d1d1d;
     --theme-text: #ededed;
-    --theme-accent: #93e1d4;
+    --theme-accent: #85f289;
     --theme-accent-2: #545454;
-    --theme-surface: #2f2f2f;
-    --theme-quote: #93e1d4;
-    --theme-highlight: #93e1d4;
+    --theme-surface: #0e1113;
+    --theme-quote: #85f289;
+    --theme-highlight: #85f289;
   }
 
   html {
