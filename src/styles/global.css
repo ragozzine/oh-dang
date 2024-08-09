@@ -17,11 +17,11 @@
 
   :root.dark {
     color-scheme: dark;
-    --theme-bg: #1d1d1d;
+    --theme-bg: #0e1113;
     --theme-text: #ededed;
     --theme-accent: #85f289;
     --theme-accent-2: #545454;
-    --theme-surface: #0e1113;
+    --theme-surface: #1d1d1d;
     --theme-quote: #85f289;
     --theme-highlight: #85f289;
   }
