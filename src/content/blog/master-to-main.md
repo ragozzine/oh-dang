@@ -10,7 +10,7 @@ Recently, I launched a new open source project. Unofficially called the [Last Fi
 
 While creating the repo on GitHub, I was pleasantly surprised to see that the default branch, heretofore always named `master`, was now called `main`.
 
-We all know that words carry power. A person’s word choice can make or break a conversation, a motto, or even a simple salutation. Calling a group of people [“guys“](/you-guys.md) or narrowing down a tough choice by singsonging [“Eeny, meeny, miny, moe”](https://en.wikipedia.org/wiki/Eeny,_meeny,_miny,_moe#American_and_British_versions) can carry unintentional maliciousness. Seeing GitHub taking action with word choice, I decided to replace the default branch of this website’s repo from `master` to `main`.
+We all know that words carry power. A person’s word choice can make or break a conversation, a motto, or even a simple salutation. Calling a group of people [“guys“](/you-guys) or narrowing down a tough choice by singsonging [“Eeny, meeny, miny, moe”](https://en.wikipedia.org/wiki/Eeny,_meeny,_miny,_moe#American_and_British_versions) can carry unintentional maliciousness. Seeing GitHub taking action with word choice, I decided to replace the default branch of this website’s repo from `master` to `main`.
 
 Doing this is surprisingly straightforward. GitHub plans to [retroactively apply this naming convention to existing repos around the end of 2020](https://github.com/github/renaming), but I preferred not to wait. As the sole contributor to my humble Hugo blog, this update was 100% painless. I found a [solid tutorial](https://www.git-tower.com/learn/git/faq/git-rename-master-to-main/) on Git Tower (despite not using the product - sorry!) but to save you a click, here are the highlights:
 
