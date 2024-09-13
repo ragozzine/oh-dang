@@ -6,7 +6,7 @@ draft: false
 tags: ["tech", "wordpress"]
 ---
 
-I’ve been a [WordPress user since 2007](/posts/2015-10-26-the-aux-of-wp-rethinking-the-wordpress-writing-experience), continuously maintaining personal writing sites. I grew along with the product, moving from a casual hobbyist suffering through the Famous 5-minute Install to a WordPress professional, making my living from the open source CMS.
+I’ve been a [WordPress user since 2007](/wordpress-writing-experience), continuously maintaining personal writing sites. I grew along with the product, moving from a casual hobbyist suffering through the Famous 5-minute Install to a WordPress professional, making my living from the open source CMS.
 
 And while WordPress is a solid foundation for many web projects, a blog isn’t one of them anymore. Often derided as being “just for blogs,” WordPress’s product roadmap has steadily veered further and further from a platform for low-volume sequential writing with each jazzy release. While it’s empowering for a non-technical writer to wield plugins to tweak their WordPress blog in any way they see fit, be they janky or no, plugins rarely fully satisfy out-of-the-box. WordPress could only be the writing tool for me because I knew what chaff to deactivate, uninstall, or otherwise work around to get a post published.
 
